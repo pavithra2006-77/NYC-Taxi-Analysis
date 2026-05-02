@@ -16,3 +16,9 @@ To analyze system behavior and stability using NYC taxi trip data.
 ## Conclusion
 The system shows stable behavior with minor fluctuations. 
 Simulation indicates the system responds proportionally to small changes.
+
+
+## Notebook View
+
+View the notebook here:
+https://nbviewer.org/github/pavithra2006-77/NYC-Taxi-Analysis/blob/main/DAV.ipynb
